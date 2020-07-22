@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile summary is a work in progress. Will update it when I have time. 
+
 <!--
 **YO-SC/YO-SC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
