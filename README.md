@@ -2,8 +2,8 @@
 
 I just love coding, specially in web development.
 
-### Check out my personal website
-[![YOSC](https://img.shields.io/badge/Personal_Website-FF0000?style=for-the-badge)](https://ysaelsaez.com/)
+### Check out my website
+[![YOSC](https://img.shields.io/badge/Website-FF0000?style=for-the-badge)](https://ysaelsaez.com/)
 
 ### Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysael-saez/)
